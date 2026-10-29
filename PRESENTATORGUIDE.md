@@ -12,7 +12,7 @@
 2. **Nora, ca. 20 sekunder.** «Nora er en fiktiv pendler. Hun skal fra Sandnes sentrum kl. 07.42 til Stavanger kl. 07.59. Appen kjenner reisen hun følger.» Vis «I rute» og at reisevarsler er slått på.
 3. **Avvik, ca. 45 sekunder.** Trykk **Simuler forsinkelse**. «Signalfeilen er oppdiktet. Se hvordan meldingen svarer på tre spørsmål: Hva har skjedd? Hva betyr det for reisen din? Hva kan du gjøre nå?» Pek på at ny avgangstid er ukjent, og at neste beskjed kommer senest kl. 07.40.
 4. **Handling, ca. 30 sekunder.** Trykk **Se alternative reiser**. «Det neste rutetoget er ikke et sikkert alternativ. Vi sier derfor tydelig at det kan bli berørt. Vi lover heller ikke buss for tog.» Åpne gjerne vurderingen. Gå tilbake til reisen.
-5. **Teori og avrunding, ca. 30 sekunder.** Åpne **Se kanaleksempelet**. «Dette illustrerer samordning mellom app og SMS. Fast struktur, personlig relevans og konsistente kanaler er våre tre forslag. Målet er et bedre grunnlag for å velge hva man gjør videre.» Inviter til spørsmål.
+5. **Teori og avrunding, ca. 30 sekunder.** Åpne **Se SMS-eksempel**. «Dette illustrerer samordning mellom app og SMS. Fast struktur, personlig relevans og konsistente kanaler er våre tre forslag. Målet er et bedre grunnlag for å velge hva man gjør videre.» Inviter til spørsmål.
 
 **Hvis dere har litt ekstra tid:** Lukk dialogen og trykk **Vis oppdatering kl. 07.40**. Avgang 07.57 og ankomst 08.14 er nå anslag, tydelig merket som ubekreftet. SMS-eksempelet oppdateres samtidig. Tiden flytter seg bare når presentatøren trykker.
 
