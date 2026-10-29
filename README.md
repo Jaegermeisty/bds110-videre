@@ -60,6 +60,11 @@ Dette er en uoffisiell studentprototype og et designforslag, ikke et produkt fra
 
 ## GitHub og nettside
 
+- Nettside: https://jaegermeisty.github.io/bds110-videre/
+- Kildekode: https://github.com/Jaegermeisty/bds110-videre
+- Lokal Git-mappe: `showcase` i BDS110-mappen.
+- Git bruker kontoens eksisterende SSH-tilkobling. Ingen ny innlogging kreves for `git push` fra denne maskinen.
+
 Prosjektet publiseres med GitHub Pages fra `main`-grenens `docs`-mappe. `npm run build` oppdaterer både den lokale produksjonsfilen i `dist` og nettsiden i `docs`.
 
 Oppdater nettsiden etter en endring:
