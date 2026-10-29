@@ -12,7 +12,7 @@ En ferdig, lokal konseptprototype om tydeligere informasjon ved avvik på Jærba
 
 Du trenger verken Node, Python, internett, konto eller en server for å demonstrere appen. Produksjonsfilen inneholder alle stilregler og ikoner. Systemskrifter brukes lokalt. Ingen informasjon sendes eller lagres. Oppfrisking av siden starter på nytt.
 
-Teksten ved siden av telefonen følger stegene i demoen. «Om prosjektet» gir en kort forklaring av faggrunnlaget.
+Teksten ved siden av telefonen følger stegene i demoen. Faggrunnlaget finnes i presentatørguiden og kildenotatet.
 
 På mobil vises appen uten telefonramme. Presentatørkontrollene ligger under appen. På små skjermer kan innholdet inne i appen rulles.
 
