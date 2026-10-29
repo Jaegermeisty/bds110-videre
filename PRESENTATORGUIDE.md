@@ -14,7 +14,7 @@
 4. **Handling, ca. 30 sekunder.** Trykk **Se alternative reiser**. «Det neste rutetoget er ikke et sikkert alternativ. Vi sier derfor tydelig at det kan bli berørt. Vi lover heller ikke buss for tog.» Åpne gjerne vurderingen. Gå tilbake til reisen.
 5. **Teori og avrunding, ca. 30 sekunder.** Åpne **Se SMS**. «Dette illustrerer samordning mellom app og SMS. Fast struktur, personlig relevans og konsistente kanaler er våre tre forslag. Målet er et bedre grunnlag for å velge hva man gjør videre.» Inviter til spørsmål.
 
-**Hvis dere har litt ekstra tid:** Lukk dialogen og trykk **Vis oppdatering kl. 07.40**. Avgang 07.57 og ankomst 08.14 er nå anslag, tydelig merket som ubekreftet. SMS-eksempelet oppdateres samtidig. Tiden flytter seg bare når presentatøren trykker.
+**Hvis dere har litt ekstra tid:** Lukk dialogen, åpne alternative reiser og trykk **Vis oppdatering kl. 07.40**. Avgang 07.57 og ankomst 08.14 er nå anslag, tydelig merket som ubekreftet. SMS-eksempelet oppdateres samtidig. Tiden flytter seg bare når presentatøren trykker.
 
 Trykk **nullstill** etter besøket. Det gjenoppretter også varsler og den normale reisen.
 
