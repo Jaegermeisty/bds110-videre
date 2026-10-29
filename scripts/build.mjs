@@ -1,0 +1,10 @@
+import {readFile,mkdir,writeFile} from 'node:fs/promises';
+const source=await readFile(new URL('../src/index.html',import.meta.url),'utf8');
+const css=await readFile(new URL('../src/style.css',import.meta.url),'utf8');
+const js=await readFile(new URL('../src/app.js',import.meta.url),'utf8');
+await mkdir(new URL('../dist/',import.meta.url),{recursive:true});
+await mkdir(new URL('../docs/',import.meta.url),{recursive:true});
+await writeFile(new URL('../dist/index.html',import.meta.url),source.replace('/* STYLES */',css).replace('/* SCRIPT */',js));
+await writeFile(new URL('../docs/index.html',import.meta.url),source.replace('/* STYLES */',css).replace('/* SCRIPT */',js));
+await writeFile(new URL('../docs/.nojekyll',import.meta.url),'');
+console.log('Produksjonsfiler klare: dist/index.html og docs/index.html (GitHub Pages).');

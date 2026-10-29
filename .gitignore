@@ -1,0 +1,8 @@
+# Supplied literature and temporary PDF text extraction
+/research/*
+!/research/KILDEGRUNNLAG.md
+# Local delivery artifacts (kept on this computer)
+/output/
+node_modules/
+.DS_Store
+*.log
