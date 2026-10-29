@@ -14,6 +14,7 @@ const errors=[];page.on('pageerror',e=>errors.push(e.message));
 let external=0;page.on('request',r=>{if(/^https?:/.test(r.url()))external++});
 await context.setOffline(true);
 await page.goto(url);
+assert.equal(await page.getByRole('img',{name:'Go-Ahead Nordic',exact:true}).evaluate(img=>img.complete&&img.naturalWidth>0),true);
 await assertText('Din neste reise');assert.match(await page.locator('#story-title').innerText(),/Nora skal/);
 assert.equal(await page.locator('[aria-current="step"]').getAttribute('id'),'step-0');
 await page.screenshot({path:fileURLToPath(new URL('01-desktop-normal.png',output))});

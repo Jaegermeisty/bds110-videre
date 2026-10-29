@@ -35,3 +35,5 @@ body.app-only .showcase-header,body.app-only .intro,body.app-only .explanation,b
 @media(min-width:900px) and (max-height:950px){.phone-stage{zoom:.92}}
 @media(min-width:900px) and (max-height:810px){.phone-stage{zoom:.82}}
 @media(max-width:550px){.screen{height:calc(100dvh - 50px)}}
+
+.app-brand .go-ahead-logo{width:126px;height:29px;object-fit:contain;object-position:left}

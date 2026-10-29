@@ -42,3 +42,7 @@ Apple Human Interface Guidelines ble brukt som praktisk referanse for kortfatted
 - https://developer.apple.com/design/human-interface-guidelines/accessibility
 
 Ikonene er enkle SVG-tegninger i kildekoden, og skrifttypene er lokale systemskrifter. Ingen tredjeparts bilder eller UI-skjermbilder inngår. Plakatens skjermbilder er tatt fra den faktiske appen med Playwright, i 1480 × 3024 piksler per appvisning.
+
+## Logo i appen
+
+Go-Ahead Nordic-logoen er hentet fra selskapets egen nettside: https://www.go-aheadnordic.no/9ab65641a809b6159906.svg. Den ligger i `src/assets/go-ahead.svg` og bygges inn i HTML-filen for offlinebruk.
